@@ -11,4 +11,4 @@
  - Ga op zoek naar een geschikte API die in lijn ligt van jouw topic voor jouw langlopende taak.
  - Zoek minstens 3 endpoints op van de API.
 
- *Schrijf hier de 3 endpoints op.*
+Allemaal proprietary-bureaucratie-fuckinghell brol
